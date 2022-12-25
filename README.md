@@ -40,7 +40,7 @@ The first thing that you would need in order to set up Azure, is to have an Azur
 <img src="https://i.imgur.com/SoFcMtu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First you would need to copy the Public IP address of your newly made virtual machine, and then open up remote desktop, using your search bar on the desktop, you would then paste your Public IP address there and be sure to remember your username/password that was previously created. Afterwards you will have to install all of the following programs to make osTicket work.
 </p>
 <br />
 
