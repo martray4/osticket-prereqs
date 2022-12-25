@@ -31,8 +31,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<[img src="[[https://i.imgur.com/DJmEXEB.png](https://i.imgur.com/4VOdop3.png)](https://i.imgur.com/4VOdop3.png)" height="80%" width="80%" alt=(https://i.imgur.com/4VOdop3.png)"/>
-</p>
+[<[img src="[[https://i.imgur.com/DJmEXEB.png](https://i.imgur.com/4VOdop3.png)](https://i.imgur.com/4VOdop3.png)" height="80%" width="80%" alt=(https://i.imgur.com/4VOdop3.png)"/>
+</p>](https://i.imgur.com/4VOdop3.png)
 </p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
